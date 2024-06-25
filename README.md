@@ -8,8 +8,15 @@ Te doy la bienvenida a este repositorio donde podrás aprender cómo crear un bo
 </div>
 
 ## ¿Qué es un bot?
-Un bot es un programa de software diseñado para realizar tareas automáticas. Funciona siguiendo comandos predefinidos, interactuando con usuarios para brindar información, realizar acciones específicas, o simplemente entretener. Desde asistentes virtuales que responden preguntas hasta robots que navegan en sitios web, los bots pueden hacer de todo, actuando como pequeños ayudantes digitales listos para facilitar tu vida. 
+Empecemos por aclarar que es un bot. 
+<p>✅ Un bot es un programa de software diseñado para realizar tareas automáticas.</p>
+<p>📚 Funciona siguiendo comandos predefinidos, interactuando con usuarios para brindar información, realizar acciones específicas, o simplemente entretener.</p> 
+<p>💡 Desde asistentes virtuales que responden preguntas hasta robots que navegan en sitios web, los bots pueden hacer de todo, actuando como pequeños ayudantes digitales listos para facilitar tu vida.</p>
 
-¡Imagina tener un asistente personal disponible 24/7, siempre listo para echar una mano!
+<div align="center">
+  <h3><b>¡Imagina tener un asistente personal disponible 24/7, siempre listo para echar una mano! 💯</b></h3>
+</div>
+
+
 
 ##
