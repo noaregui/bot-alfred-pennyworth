@@ -14,9 +14,16 @@ Empecemos por aclarar que es un bot.
 <p>💡 Desde asistentes virtuales que responden preguntas hasta robots que navegan en sitios web, los bots pueden hacer de todo, actuando como pequeños ayudantes digitales listos para facilitar tu vida.</p>
 
 <div align="center">
-  <h3><b>¡Imagina tener un asistente personal disponible 24/7, siempre listo para echar una mano! 💯</b></h3>
+  <h3><b>¡Imagina tener un asistente personal disponible 24/7, siempre listo para echar una mano!</b><h1>💯</h1></h3>
 </div>
 
+## ¿Quién es Alfred Pennyworth?
+Alfred es el famoso mayordomo de Batman, también conocido como su mano derecha y confidente. En mi caso he decidido crear un bot de Alfred que nos contará curiosidades ocultas de este super héroe. Te recomiendo que a la hora de crear tu bot le des también un personaje. Este puede servir de muchas maneras: contando chistes, recomendando películas o libros, contando curiosidades, etc. 
 
+<div align="center">
+  <p>Si bien crear un bot es sencillo, <h3>¡puedes complicarlo y personalizado sin límite! 🦇</h3></p>
+</div>
 
-##
+<div align="center">
+  <img src="https://w0.peakpx.com/wallpaper/480/817/HD-wallpaper-dc-comic-batman-2020-drawing.jpg">
+</div>
