@@ -17,7 +17,7 @@ Empecemos por aclarar qué es un bot.
   <h3><b>¡Imagina tener un asistente personal disponible 24/7, siempre listo para echar una mano!</b><h1>💯</h1></h3>
 </div>
 
-## ¿Quién es Alfred Pennyworth?
+## 🦇 ¿Quién es Alfred Pennyworth?
 Alfred es el famoso mayordomo de Batman, también conocido como su mano derecha y confidente. En mi caso, he decidido crear un bot de Alfred que nos contará curiosidades ocultas de este super héroe. Te recomiendo que a la hora de crear tu bot le des también un personaje. Este puede servir de muchas maneras: contando chistes, recomendando películas o libros, contando curiosidades, etc. 
 
 <div align="center">
@@ -28,10 +28,20 @@ Alfred es el famoso mayordomo de Batman, también conocido como su mano derecha 
   <img src="https://w0.peakpx.com/wallpaper/480/817/HD-wallpaper-dc-comic-batman-2020-drawing.jpg">
 </div>
 
+<br></br>
+Aquí tienes el link al bot que he creado para que puedas buscarlo en telegram, interactuar con él, tomar nuevas ideas, hacerme propuestas, etc. :
+<div align="center">
+  <a href="https://t.me/ButlerDarkBot">Alfred Pennyworth</a>
+  <br></br>
+  <img width="400" alt="image" src="https://github.com/noaregui/bot-alfred-pennyworth/assets/150278575/423c8772-4edf-40ee-8fed-dbc374be3229">
+</div>
+
+
 ## 🌱 Contenido del repositorio
 - **`bot_alfred_pennyworth.py`**: Código Python del bot.
 - **`/imagenes`**: Carpeta que contiene las imágenes utilizadas por el bot.
 <br></br>
+
 ## 📖 Intrucciones
 Lo primero es que accedas a telegram y abras un chat con @BotFather
 <br></br>
@@ -48,16 +58,32 @@ Una vez ahí utilizarás:
  <img width="617" alt="image" src="https://github.com/noaregui/bot-alfred-pennyworth/assets/150278575/ed4e8b18-23d6-448f-8901-f66aad48c185">
 </div>
 <br></br>
-2. Una vez llegados a este punto puedes probar con diferentes comandos para crear tu bot.
+Una vez llegados a este punto puedes probar con diferentes comandos para crear tu bot.
 
-
-  **Comando `/newbot`**: Podrás darle nombre y nickname.
-  **Comando `/mybots`**: Sirve para acceder a los bots que has creado y poder editarlos.
-
+  2. **Comando `/newbot`**: Podrás darle nombre y nickname.
+  3. **Comando `/mybots`**: Sirve para acceder a los bots que has creado y poder editarlos.
+      <br></br>
+<div align="center">
+  <h3><b>👉🏾 ¡Siéntente libre para ir probando diferentes comandos y dar forma a tu bot! 👈🏾</b></h3>
+</div>
 <br></br>
 
-El Bot Alfred Pennyworth es un proyecto diseñado para interactuar con los usuarios de Telegram y compartir curiosidades sobre Batman. Utiliza la biblioteca `telebot` de Python para la comunicación con la API de Telegram.
+## 🔐 ¿Qué tiene que ver el token en todo esto?
+
+Un token es una cadena única de caracteres que se utiliza para autenticar y autorizar el acceso a una API o servicio. En el contexto de un bot de Telegram, el token que le pediremos BotFather al crear un nuevo bot, permitirá que el bot se comunique con la API de Telegram para enviar y recibir mensajes de manera segura. Dicho de otra forma, un token es como una llave secreta que le das a tu bot para que pueda hablar con Telegram y hacer su magia. Sin esta llave, el bot no puede funcionar. 
+
+<div align="center">
+  <h3><b>🗝️ ¡Es tu pase VIP para acceder a la fiesta! 🗝️</b></h3>
+</div>
+
+Con esto en mente:
 <br></br>
+4. **Comando `/token`**: Nos dará el token que utilizaremos para nuestro código.
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2d0dnA0dncxNzcyeTFzdDRvNjVicXA5ZTAyYzl4em9heDIxbG8zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U77xnq9Dbf2oIVee33/giphy.webp" alt="GIF de llave" width="500" height="300">
+</div>
+
+
 ## 💬 Funcionalidades Principales
 
 1. **Comando `/start`**: Presentación del bot y envío de una foto de Alfred Pennyworth.
@@ -80,6 +106,9 @@ Si deseas contribuir al desarrollo del bot o tienes sugerencias para mejorar sus
 ## 📃 Contacto
 
 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/ainhoa-leon-arrieta/) si tienes preguntas o comentarios adicionales sobre el proyecto o simplemente quieres crear red.
+
+
+
 
 ---
 
