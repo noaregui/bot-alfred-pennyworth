@@ -29,13 +29,20 @@ Alfred es el famoso mayordomo de Batman, también conocido como su mano derecha 
 </div>
 
 <br></br>
-Aquí tienes el link al bot que he creado para que puedas buscarlo en telegram, interactuar con él, tomar nuevas ideas, hacerme propuestas, etc. :
+Aquí tienes el link al bot que he creado para que puedas buscarlo en telegram, interactuar con él, tomar nuevas ideas, plantearme mejoras, etc.:
 <div align="center">
   <a href="https://t.me/ButlerDarkBot">Alfred Pennyworth</a>
   <br></br>
   <img width="400" alt="image" src="https://github.com/noaregui/bot-alfred-pennyworth/assets/150278575/423c8772-4edf-40ee-8fed-dbc374be3229">
 </div>
 
+<br></br>
+
+1. **Comando `/start`**: Presentación del bot y envío de una foto de Alfred Pennyworth.
+2. **Comando `/story`**: Historia ficticia sobre Alfred Pennyworth y su transformación en un bot.
+3. **Comando `/curiosities`**: Envío aleatorio de curiosidades sobre Batman, acompañadas de imágenes ilustrativas.
+
+<br></br>
 
 ## 🌱 Contenido del repositorio
 - **`bot_alfred_pennyworth.py`**: Código Python del bot.
@@ -84,11 +91,7 @@ Con esto en mente:
 </div>
 
 
-## 💬 Funcionalidades Principales
 
-1. **Comando `/start`**: Presentación del bot y envío de una foto de Alfred Pennyworth.
-2. **Comando `/story`**: Historia ficticia sobre Alfred Pennyworth y su transformación en un bot.
-3. **Comando `/curiosities`**: Envío aleatorio de curiosidades sobre Batman, acompañadas de imágenes ilustrativas.
 
 ## 🔑 Uso
 
