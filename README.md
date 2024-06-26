@@ -33,6 +33,29 @@ Alfred es el famoso mayordomo de Batman, también conocido como su mano derecha 
 - **`/imagenes`**: Carpeta que contiene las imágenes utilizadas por el bot.
 <br></br>
 ## 📖 Intrucciones
+Lo primero es que accedas a telegram y abras un chat con @BotFather
+<br></br>
+<div align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/noaregui/bot-alfred-pennyworth/assets/150278575/a78830d8-013e-4a36-a8f2-83f0f46e3de0">
+</div>
+<br></br>
+Una vez ahí utilizarás:
+<br></br>
+
+1. **Comando `/start`**: Lo que hará que el bot te devuelva una serie de comandos con los que podrás interactuar con él.
+   <br></br>
+<div align="center">
+ <img width="617" alt="image" src="https://github.com/noaregui/bot-alfred-pennyworth/assets/150278575/ed4e8b18-23d6-448f-8901-f66aad48c185">
+</div>
+<br></br>
+2. Una vez llegados a este punto puedes probar con diferentes comandos para crear tu bot.
+
+
+  **Comando `/newbot`**: Podrás darle nombre y nickname.
+  **Comando `/mybots`**: Sirve para acceder a los bots que has creado y poder editarlos.
+
+<br></br>
+
 El Bot Alfred Pennyworth es un proyecto diseñado para interactuar con los usuarios de Telegram y compartir curiosidades sobre Batman. Utiliza la biblioteca `telebot` de Python para la comunicación con la API de Telegram.
 <br></br>
 ## 💬 Funcionalidades Principales
