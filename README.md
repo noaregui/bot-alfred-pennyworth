@@ -45,8 +45,7 @@ Aquí tienes el link al bot que he creado para que puedas buscarlo en telegram, 
 <br></br>
 
 ## 🌱 Contenido del repositorio
-- **`bot_alfred_pennyworth.py`**: Código Python del bot.
-- **`/imagenes`**: Carpeta que contiene las imágenes utilizadas por el bot.
+  - **`main.py`**: Código Python del bot 🐍
 <br></br>
 
 ## 📖 Intrucciones
@@ -90,16 +89,13 @@ Con esto en mente:
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2d0dnA0dncxNzcyeTFzdDRvNjVicXA5ZTAyYzl4em9heDIxbG8zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U77xnq9Dbf2oIVee33/giphy.webp" alt="GIF de llave" width="500" height="300">
 </div>
 
+<br></br>
 
-
-
-## 🔑 Uso
-
-Para utilizar el bot, simplemente agrega el token proporcionado en el archivo `bot_alfred_pennyworth.py` y ejecútalo en tu entorno de Python. Asegúrate de tener instalada la biblioteca `telebot` mediante `pip install pyTelegramBotAPI`.
+Para utilizar el bot, simplemente agrega el token proporcionado al archivo `main.py` y ejecútalo en tu entorno de Python. Asegúrate de tener instalada la biblioteca `telebot` mediante `pip install pyTelegramBotAPI`.
 
 ## 🕹️ Requisitos
 
-- Python 3.x
+- Python
 - Biblioteca `telebot` (`pip install pyTelegramBotAPI`)
 
 ## 👥 Contribución
